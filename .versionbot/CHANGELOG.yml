@@ -1,3 +1,6 @@
+- commits: []
+  version: 2.29.2+rev8
+  date: 2019-02-19T07:38:56.518Z
 - commits:
     - subject: 'rpi-config: Prevent u-boot UART logging on RevPi Core3'
       hash: 22fe8b9ed747d99d11a551630fa97eb30ebc1b4a
